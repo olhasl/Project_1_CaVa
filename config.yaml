@@ -1,0 +1,9 @@
+paths:
+  # Path to the Excel file with names
+  input_file: './bouman_8.xlsx'  
+  # Path to store the final seating arrangement output
+  output_file: './seat_assignments.xlsx'
+
+settings:
+  number_of_tables: 8
+  table_capacity: 4
