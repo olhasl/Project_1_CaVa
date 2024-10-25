@@ -3,8 +3,7 @@
 ## Project 1
 # Challenge: Openspace Organizer
 
-## The Team
-### Olha, Andrii
+## The Team: Olha, Andrii
 
 **Repository:** openspace-organizer  
 **Challenge Type:** Consolidation  
@@ -79,9 +78,9 @@ python main.py
 Output: The seating arrangement will display in the console, indicating which colleagues have been assigned to each table and any remaining unoccupied seats.
 
 ## Deliverables
-# **Source Code**: Complete, functional Python code, organized according to the project structure.
-# **README**: A detailed README.md with installation and usage instructions, clear objectives, and a project summary.
-# **Branching Strategy**: The main branch contains only essential features. Additional features or updates are on separate branches and merged via pull requests.
+**Source Code**: Complete, functional Python code, organized according to the project structure.
+**README**: A detailed README.md with installation and usage instructions, clear objectives, and a project summary.
+**Branching Strategy**: The main branch contains only essential features. Additional features or updates are on separate branches and merged via pull requests.
 
 ## Optional (Team-Specific)
 
