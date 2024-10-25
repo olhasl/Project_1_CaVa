@@ -1,7 +1,5 @@
 ## Project 1
 # Challenge "Openspace classifier"
-## Project 1
-# Challenge: Openspace Organizer
 
 ## The Team: Olha, Andrii
 
